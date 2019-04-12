@@ -13,7 +13,7 @@ Books used will include Cracking The Coding Interview, Programming Interviews Ex
 * More in the works...
 
 ## Status
-Project is: _in progress_
+Project is: _in progress_\
 Proposed changes: _add code challenges_
 
 ## Contact
